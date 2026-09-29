@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "SIAKAD UNIKU",
+    "slug": "siakad-uniku-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
